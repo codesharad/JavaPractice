@@ -23,6 +23,7 @@ public class SplitNumber {
             number = (int) (number%Math.pow(10,times));
             
         }
+        sc.close();
         
     }
 }
